@@ -23,7 +23,7 @@
   -webkit-animation-fill-mode: forwards;
 }
 [class~=custom][class~=disconnected] {
-  background: url('image2.png');
+  background: url('imagedis.png');
 }
 @keyframes Callback {
   0% {
